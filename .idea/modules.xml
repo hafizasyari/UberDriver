@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UberDriver.iml" filepath="$PROJECT_DIR$/UberDriver.iml" />
+      <module fileurl="file://C:\Users\APIS\AndroidStudioProjects\UberDriver\UberDriver.iml" filepath="C:\Users\APIS\AndroidStudioProjects\UberDriver\UberDriver.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\APIS\AndroidStudioProjects\UberDriver\app\app.iml" filepath="C:\Users\APIS\AndroidStudioProjects\UberDriver\app\app.iml" />
     </modules>
   </component>
 </project>
